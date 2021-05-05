@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Website-Design-Layout_1</title>
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+ <div class="container">
+  <div class="navbar">
+   <img src="images/logo.jpg" class="logo">
+   <nav>
+    <ul>
+     <li><a href="">Home</a></li>
+     <li><a href="">About</a></li>
+     <li><a href="">Collections</a></li>
+     <li><a href="">Categories</a></li>
+    </ul>
+   </nav>
+   <img src="images/cart.png" class="cart">
+</div>
+
+<div class="content">
+ <a href="" class="btn">2020 Collections</a>
+ <h1>"Don't settle<br> for average"</h1>
+ <p>You can't buy happiness, but you can<br>
+   buy hot chocolate with marshmallows, 
+  and that's kind of the same thing.</p>
+  <div class="arrow-icons">
+   <img src="images/icons8-go-back-50.png">
+   <img src="images/icons8-circled-right-50.png">
+  </div>
+</div>
+
+<img src="images/featured-img.png" class="feature-img">
+
+<div class="social-links">
+  <a href="">FACEBOOK</a>
+  <a href="">INSTAGRAM</a>
+  <a href="">TWITTER</a>
+</div>
+
+
+ </div>
+</body>
+</html>
